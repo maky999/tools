@@ -1,4 +1,4 @@
-var items = document.getElementsByClassName('_1QoxDw Qkd66A fFOiLQ NT2yCg Qkd66A fFOiLQ lsXp-w GnpDIA zQlusQ uRvRjQ');
+var items = document.getElementsByClassName('NT2yCg');
 for (var i = 0; i < items.length; i++) {      
   items[i].click();
 }
