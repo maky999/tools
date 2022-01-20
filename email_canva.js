@@ -1,6 +1,7 @@
-var items = document.getElementsByClassName('NT2yCg');
-for (var i = 0; i < items.length; i++) {      
-  items[i].click();
-}
+//auto click khong gioi han
+setInterval(() => {
+ document.querySelector(".NT2yCg").click();
+    },0);
 
-//hoac don gian sd cái này-  document.querySelector(".NT2yCg").click();
+// click 1 lan
+document.querySelector(".NT2yCg").click();
