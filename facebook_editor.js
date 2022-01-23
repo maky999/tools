@@ -9,6 +9,6 @@ function doScaledTimeout(i) {
         document.querySelector(aeq[ie]).click();
     }, i + tok);
 }
-for (let i = 1; i <= 5000; i++) {
+for (let i = 1; i <= n; i++) {
     doScaledTimeout(i)
 }
