@@ -1,5 +1,5 @@
 clear();
-    var n = 100000; //so lan vong lap
+    var n = 200000; //so lan vong lap
 function doScaledTimeout(i) {
     var t = Math.floor((Math.random() * 4) + 1);
     var tok = t * 1000;
